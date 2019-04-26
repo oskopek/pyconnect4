@@ -1,0 +1,8 @@
+= PyConnect4
+Ondrej Skopek <oskopek@oskopek.com>
+
+A very simple command-line Connect4 game that lets you play against the computer :)
+
+* Dependencies: `numpy`, `python >= 3.7`
+** `pip install --user numpy`
+* Run: `python main.py`
